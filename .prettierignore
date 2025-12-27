@@ -1,0 +1,13 @@
+.next/
+dist/
+**/dist/
+node_modules/
+**/node_modules/
+storybook-static/
+**/storybook-static/
+out/
+build/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+pnpm-lock.yaml

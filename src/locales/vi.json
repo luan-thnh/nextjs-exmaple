@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "login": {
+      "title": "Đăng nhập",
+      "description": "Đăng nhập vào tài khoản của bạn"
+    },
+    "dashboard": {
+      "title": "Bảng điều khiển",
+      "description": "Tổng quan các chỉ số của bạn"
+    }
+  },
+  "common": {
+    "login": "Đăng nhập",
+    "dashboard": "Bảng điều khiển",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "cancel": "Hủy",
+    "saveChanges": "Lưu thay đổi",
+    "create": "Tạo mới"
+  },
+  "dashboard": {
+    "confirmDelete": "Bạn có chắc chắn muốn xóa bài viết này?",
+    "stats": {
+      "totalPosts": "Tổng bài viết",
+      "totalViews": "Tổng lượt xem",
+      "activeUtils": "Tiện ích hoạt động"
+    },
+    "recentPosts": {
+      "title": "Bài viết gần đây",
+      "description": "Quản lý và giám sát nội dung của bạn hiệu quả.",
+      "newPost": "Bài viết mới"
+    },
+    "table": {
+      "filterPlaceholder": "Lọc bài viết...",
+      "columns": "Cột",
+      "toggleColumns": "Ẩn/hiện cột",
+      "headers": {
+        "title": "Tiêu đề",
+        "author": "Tác giả",
+        "date": "Ngày",
+        "body": "Nội dung",
+        "actions": "Hành động"
+      },
+      "noResults": "Không có kết quả."
+    },
+    "dialog": {
+      "delete": {
+        "title": "Xóa bài viết",
+        "description": "Bạn có chắc chắn muốn xóa bài viết này? Hành động này không thể hoàn tác."
+      },
+      "post": {
+        "createTitle": "Tạo bài viết",
+        "editTitle": "Sửa bài viết",
+        "createDescription": "Thêm bài viết mới vào bảng điều khiển. Nhấn tạo khi hoàn tất.",
+        "editDescription": "Chỉnh sửa bài viết tại đây. Nhấn lưu khi hoàn tất."
+      }
+    },
+    "form": {
+      "title": "Tiêu đề",
+      "titlePlaceholder": "Nhập tiêu đề bài viết",
+      "body": "Nội dung",
+      "bodyPlaceholder": "Nhập nội dung bài viết"
+    }
+  },
+  "login": {
+    "welcome": "Chào mừng trở lại",
+    "subtitle": "Nhập thông tin xác thực để truy cập tài khoản",
+    "github": "Github",
+    "google": "Google",
+    "orContinue": "Hoặc tiếp tục với",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "forgotPassword": "Quên mật khẩu?",
+    "signIn": "Đăng nhập",
+    "signingIn": "Đang đăng nhập...",
+    "invalidCredentials": "Email hoặc mật khẩu không đúng",
+    "error": "Có lỗi xảy ra. Vui lòng thử lại.",
+    "termsPrefix": "Bằng cách tiếp tục, bạn đồng ý với",
+    "terms": "Điều khoản dịch vụ",
+    "and": "và",
+    "privacy": "Chính sách bảo mật",
+    "accountPlaceholder": "admin@example.com",
+    "passwordPlaceholder": "mật khẩu",
+    "testimonialQuote": "Thư viện này đã thay đổi hoàn toàn cách chúng tôi xây dựng bảng điều khiển. Sự chú ý đến chi tiết và tính dễ sử dụng chưa từng có.",
+    "testimonialAuthor": "Sofia Davis",
+    "testimonialRole": "Nhà thiết kế sản phẩm",
+    "copyright": "© 2025 CNTT Inc. Đã đăng ký bản quyền."
+  }
+}

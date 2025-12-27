@@ -1,0 +1,57 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "explorer.compactFolders": false,
+    // Markdown PDF Configuration
+  "markdown-pdf.type": ["pdf"],
+  "markdown-pdf.convertOnSave": false,
+  "markdown-pdf.outputDirectory": "",
+  "markdown-pdf.outputDirectoryRelativePathFile": true,
+
+  // Styles - sử dụng CSS custom
+  "markdown-pdf.styles": ["markdown-pdf.css"],
+  "markdown-pdf.stylesRelativePathFile": true,
+  "markdown-pdf.includeDefaultStyles": true,
+
+  // Syntax highlighting - sử dụng theme đẹp
+  "markdown-pdf.highlight": true,
+  "markdown-pdf.highlightStyle": "atom-one-dark.css",
+
+  // Markdown options
+  "markdown-pdf.breaks": false,
+  "markdown-pdf.emoji": true,
+
+  // PDF options - format đẹp
+  "markdown-pdf.displayHeaderFooter": true,
+  "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm; color: #666;\"><span class='title'></span></div><div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; color: #666;\">luanthnh</div>",
+  "markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin: 0 auto; color: #666;\"><span class='pageNumber'></span> / <span class='totalPages'></span></div>",
+  "markdown-pdf.printBackground": true,
+  // "markdown-pdf.orientation": "portrait",
+  // "markdown-pdf.format": "A4",
+  // "markdown-pdf.margin.top": "1.5cm",
+  // "markdown-pdf.margin.bottom": "1.5cm",
+  // "markdown-pdf.margin.right": "1.5cm",
+  // "markdown-pdf.margin.left": "1.5cm",
+
+  // Scale
+  "markdown-pdf.scale": 1,
+
+  // PlantUML & Mermaid
+  "markdown-pdf.plantumlServer": "http://www.plantuml.com/plantuml",
+  "markdown-pdf.mermaidServer": "https://unpkg.com/mermaid/dist/mermaid.min.js",
+
+  // markdown-it-include
+  "markdown-pdf.markdown-it-include.enable": true
+}

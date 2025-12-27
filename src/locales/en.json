@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "login": {
+      "title": "Login",
+      "description": "Login to your account"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "description": "Dashboard - Overview your stats"
+    }
+  },
+  "common": {
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "saveChanges": "Save changes",
+    "create": "Create"
+  },
+  "dashboard": {
+    "confirmDelete": "Are you sure you want to delete this post?",
+    "stats": {
+      "totalPosts": "Total Posts",
+      "totalViews": "Total Views",
+      "activeUtils": "Active Utils"
+    },
+    "recentPosts": {
+      "title": "Recent Posts",
+      "description": "Manage and oversee your content effectively.",
+      "newPost": "New Post"
+    },
+    "table": {
+      "filterPlaceholder": "Filter posts...",
+      "columns": "Columns",
+      "toggleColumns": "Toggle columns",
+      "headers": {
+        "title": "Title",
+        "author": "Author",
+        "date": "Date",
+        "body": "Body",
+        "actions": "Actions"
+      },
+      "noResults": "No results."
+    },
+    "dialog": {
+      "delete": {
+        "title": "Delete Post",
+        "description": "Are you sure you want to delete this post? This action cannot be undone."
+      },
+      "post": {
+        "createTitle": "Create Post",
+        "editTitle": "Edit Post",
+        "createDescription": "Add a new post to your dashboard. Click create when you're done.",
+        "editDescription": "Make changes to your post here. Click save when you're done."
+      }
+    },
+    "form": {
+      "title": "Title",
+      "titlePlaceholder": "Enter post title",
+      "body": "Body",
+      "bodyPlaceholder": "Enter post content"
+    }
+  },
+  "login": {
+    "welcome": "Welcome back",
+    "subtitle": "Enter your credentials to access your account",
+    "github": "Github",
+    "google": "Google",
+    "orContinue": "Or continue with",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign in",
+    "signingIn": "Signing in...",
+    "invalidCredentials": "Invalid email or password",
+    "error": "An error occurred. Please try again.",
+    "termsPrefix": "By clicking continue, you agree to our",
+    "terms": "Terms of Service",
+    "and": "and",
+    "privacy": "Privacy Policy",
+    "accountPlaceholder": "admin@example.com",
+    "passwordPlaceholder": "password",
+    "testimonialQuote": "This library has revolutionized how we build dashboards. The attention to detail and ease of use is unmatched.",
+    "testimonialAuthor": "Sofia Davis",
+    "testimonialRole": "Product Designer",
+    "copyright": "© 2025 CNTT Inc. All rights reserved."
+  }
+}
