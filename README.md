@@ -11,7 +11,7 @@ This project is a Next.js application designed with a modular architecture, util
 - **Form Handling**: [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/)
 - **Authentication**: [Auth.js](https://authjs.dev/) (NextAuth)
 - **Internationalization**: [next-intl](https://next-intl-docs.vercel.app/)
-- **UI Components**: [`@luanthnh/cntt-ui`](https://cntt-ui.vercel.app/) (Custom Design System) using [Radix UI](https://www.radix-ui.com/) primitives & [Tremor](https://www.tremor.so/)
+- **UI Components**: [shadcn-ui](https://ui.shadcn.com/) (Design System) using [Radix UI](https://www.radix-ui.com/) primitives & [Tremor](https://www.tremor.so/)
 - **Testing**: [Vitest](https://vitest.dev/) (Unit), [Playwright](https://playwright.dev/) (E2E)
 - **Tooling**: [Husky](https://typicode.github.io/husky/), [Commitlint](https://commitlint.js.org/), [Knip](https://knip.dev/), [Prettier](https://prettier.io/), [ESLint](https://eslint.org/)
 
